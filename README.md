@@ -15,7 +15,15 @@ The main objective is to provide a practical understanding of how serverless com
 # Screenshots :
 
 ## Dynamodb table :
+<img width="1174" height="357" alt="Screenshot 2025-09-17 at 11 49 28 PM" src="https://github.com/user-attachments/assets/41662e0b-9dd4-4bc1-a856-b54432abe6ed" />
+
 <img width="1333" height="485" alt="Screenshot 2025-09-17 at 11 33 09 PM" src="https://github.com/user-attachments/assets/5530201c-b115-44fe-a0af-3893fdb7e6e8" />
+
+---
+
+## API Gateway
+
+<img width="1174" height="357" alt="Screenshot 2025-09-17 at 11 49 07 PM" src="https://github.com/user-attachments/assets/f8c580b4-8a1a-4363-abf2-204b31cf2b72" />
 
 ---
 
